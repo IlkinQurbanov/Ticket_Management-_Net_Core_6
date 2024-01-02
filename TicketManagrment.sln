@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{69B79731-ADFC-480B-92FD-DB57507D3932}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{40913C78-64F0-4773-86B3-1FA847121C24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{23A0257F-86BC-4F61-878B-7A756FA9565D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{5831199C-3132-4056-88AF-4E6D73F69A7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{FB613175-A1A8-42A8-9D2D-6A7D0908F80D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{A8259F90-1B23-4034-BAD0-F324CAA2EEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketManagement.Domain", "TicketManagement.Domain\TicketManagement.Domain.csproj", "{65F35854-EC7B-4CE3-A0A6-7072FEF40321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F35854-EC7B-4CE3-A0A6-7072FEF40321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F35854-EC7B-4CE3-A0A6-7072FEF40321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F35854-EC7B-4CE3-A0A6-7072FEF40321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F35854-EC7B-4CE3-A0A6-7072FEF40321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{23A0257F-86BC-4F61-878B-7A756FA9565D} = {69B79731-ADFC-480B-92FD-DB57507D3932}
+		{5831199C-3132-4056-88AF-4E6D73F69A7C} = {69B79731-ADFC-480B-92FD-DB57507D3932}
+		{FB613175-A1A8-42A8-9D2D-6A7D0908F80D} = {69B79731-ADFC-480B-92FD-DB57507D3932}
+		{A8259F90-1B23-4034-BAD0-F324CAA2EEDB} = {69B79731-ADFC-480B-92FD-DB57507D3932}
+		{65F35854-EC7B-4CE3-A0A6-7072FEF40321} = {5831199C-3132-4056-88AF-4E6D73F69A7C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11679BC0-6475-4859-BF29-B318FA23FF23}
+	EndGlobalSection
+EndGlobal

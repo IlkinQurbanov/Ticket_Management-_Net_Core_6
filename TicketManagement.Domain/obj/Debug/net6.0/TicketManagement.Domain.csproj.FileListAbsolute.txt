@@ -1,0 +1,11 @@
+C:\Users\ilkin\source\repos\TicketManagrment\TicketManagement.Domain\bin\Debug\net6.0\TicketManagement.Domain.deps.json
+C:\Users\ilkin\source\repos\TicketManagrment\TicketManagement.Domain\bin\Debug\net6.0\TicketManagement.Domain.dll
+C:\Users\ilkin\source\repos\TicketManagrment\TicketManagement.Domain\bin\Debug\net6.0\TicketManagement.Domain.pdb
+C:\Users\ilkin\source\repos\TicketManagrment\TicketManagement.Domain\obj\Debug\net6.0\TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\TicketManagrment\TicketManagement.Domain\obj\Debug\net6.0\TicketManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\TicketManagrment\TicketManagement.Domain\obj\Debug\net6.0\TicketManagement.Domain.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\TicketManagrment\TicketManagement.Domain\obj\Debug\net6.0\TicketManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\TicketManagrment\TicketManagement.Domain\obj\Debug\net6.0\TicketManagement.Domain.dll
+C:\Users\ilkin\source\repos\TicketManagrment\TicketManagement.Domain\obj\Debug\net6.0\refint\TicketManagement.Domain.dll
+C:\Users\ilkin\source\repos\TicketManagrment\TicketManagement.Domain\obj\Debug\net6.0\TicketManagement.Domain.pdb
+C:\Users\ilkin\source\repos\TicketManagrment\TicketManagement.Domain\obj\Debug\net6.0\ref\TicketManagement.Domain.dll
